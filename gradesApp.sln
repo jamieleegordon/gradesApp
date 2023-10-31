@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gradesApp", "gradesApp\gradesApp.vcxproj", "{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Debug|x64.ActiveCfg = Debug|x64
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Debug|x64.Build.0 = Debug|x64
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Debug|x86.Build.0 = Debug|Win32
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Release|x64.ActiveCfg = Release|x64
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Release|x64.Build.0 = Release|x64
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Release|x86.ActiveCfg = Release|Win32
+		{88034F7A-AC1D-48E9-9B0A-0F6BB4E393C9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2EC462-2ECC-4B67-A665-66BE89CA4D14}
+	EndGlobalSection
+EndGlobal
